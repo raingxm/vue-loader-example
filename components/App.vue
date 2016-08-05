@@ -6,13 +6,13 @@
 </template>
 
 <script>
-import ComponentA from './ComponentA.vue'
-import ComponentB from './ComponentB.vue'
+ import ComponentA from './ComponentA.vue'
+ import ComponentB from './ComponentB.vue'
 
 export default {
-  components: {
-    ComponentA,
-    ComponentB
-  }
+   components: {
+     ComponentA,
+     ComponentB
+   }
 }
 </script>
